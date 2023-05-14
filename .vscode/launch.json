@@ -9,7 +9,7 @@
       "type": "Ruby",
       "request": "launch",
       "cwd": "${workspaceRoot}",
-      "program": "/Users/ericqian/Development/Programming-Intro-Exercises/Basics/Exercise-3.rb"
+      "program": "/Users/ericqian/Development/Programming-Intro-Exercises/Variables/Exercise-2.rb"
     }
   ]
 }
