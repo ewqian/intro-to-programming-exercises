@@ -9,7 +9,7 @@
       "type": "Ruby",
       "request": "launch",
       "cwd": "${workspaceRoot}",
-      "program": "/Users/ericqian/Development/Programming-Intro-Exercises/Flow-Control/Exercise-2.rb"
+      "program": "/Users/ericqian/Development/Programming-Intro-Exercises/Exercises/Exercise-16.rb"
     }
   ]
 }
